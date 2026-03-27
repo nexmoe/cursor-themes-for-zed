@@ -14,12 +14,15 @@ The themes are converted from the original VS Code sources and aim to preserve t
 
 If theme changes do not appear immediately, run `zed: reload extensions`. A full workspace reload may also help.
 
-## Included Themes
+## Previews
 
-- Cursor Dark
-- Cursor Dark Midnight
-- Cursor Dark High Contrast
-- Cursor Light
+| Cursor Dark | Cursor Dark Midnight |
+| --- | --- |
+| ![Cursor Dark](preview/cursor-dark-preview.png) | ![Cursor Dark Midnight](preview/cursor-dark-midnight-preview.png) |
+
+| Cursor Dark High Contrast | Cursor Light |
+| --- | --- |
+| ![Cursor Dark High Contrast](preview/cursor-dark-high-contrast-preview.png) | ![Cursor Light](preview/cursor-light-preview.png) |
 
 ## Development
 
