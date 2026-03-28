@@ -5,6 +5,7 @@
   "type": "module",
   "packageManager": "bun@1.3.2",
   "author": "Nexmoe",
+  "license": "MIT",
   "description": "A Zed port of Cursor's theme family, including Cursor Dark, Cursor Dark Midnight, Cursor Dark High Contrast, and Cursor Light. Converted from the original VS Code themes with matching editor UI, syntax highlighting, and terminal colors.",
   "repository": {
     "type": "git",
